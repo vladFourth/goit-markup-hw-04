@@ -510,6 +510,10 @@ margin-bottom: 8px;
     background-color: #31d0aa;
 }
 
+.footer-social-icon {
+    fill: #f4f4fd;
+}
+
 .footer-link {
     display: inline-block;
     margin-bottom: 16px;
