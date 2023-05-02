@@ -300,8 +300,52 @@ width: calc((100% - 48px) / 3);
     letter-spacing: 0.02em;
 }
 
+.section-five {
+    padding: 120px 0;
+}
+
+.section-five-title {
+    text-align: center;
+    size: 36px;
+    color: #2E2F42;
+    line-height: 1.1;
+    margin-bottom: 72px;
+}
+
+.section-five-icons-position {
+    display: flex;
+    gap: 24px;
+
+}
+
+.section-five-icons {
+    width: calc((100% - 120px) / 6);
+    height: 88px;
+}
+
+.section-five-icons-link {
+    width: 100%;
+    height: 100%;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #8e8f99;
+
+}
+
+.section-five-icons-link:hover, 
+.section-five-icons-link:focus {
+    color: #404bbf;
+}
+
 .section-portfolio {
     padding: 96px 0 120px;
+}
+
+.section-five-icon {
+    fill: currentColor;
 }
 
 .filter-portfolio-list {
