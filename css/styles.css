@@ -306,9 +306,9 @@ width: calc((100% - 48px) / 3);
 
 .section-five-title {
     text-align: center;
-    size: 36px;
-    color: #2E2F42;
+    font-size: 36px;
     line-height: 1.1;
+    color: #2E2F42;
     margin-bottom: 72px;
 }
 
