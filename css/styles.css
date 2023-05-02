@@ -338,6 +338,7 @@ width: calc((100% - 48px) / 3);
 .section-five-icons-link:hover, 
 .section-five-icons-link:focus {
     color: #404bbf;
+    border-color: #404bbf;
 }
 
 .section-portfolio {
@@ -540,7 +541,7 @@ margin-bottom: 8px;
 .footer-description {
     max-width: 264px;
     color: #F4F4FD;
-    margin-bottom: 16px;
+
    
 }
 
