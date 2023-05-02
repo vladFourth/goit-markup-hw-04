@@ -467,11 +467,15 @@ margin-bottom: 8px;
 .site-footer {
     background: #2E2F42;
     padding: 100px 0;
-    display: flex;
-    align-items: baseline;
+
 }
 
 .footer-position {
+    display: flex;
+        align-items: baseline;
+}
+
+.footer-section-one {
     gap: 120px;
 }
 
