@@ -126,7 +126,12 @@ color: var(--color-ocean);
 .header-nav {
         display: flex;
         gap: 40px;
-        padding: 24px 0;
+        /* padding: 24px 0; */
+}
+
+.header-nav-position {
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .hero {
