@@ -20,7 +20,7 @@ ul {
     margin: 0 auto;
 }
 
-h1, h2, h3 {
+h1, h2, h3, p {
 margin: 0 auto;
 }
 
@@ -104,7 +104,7 @@ text-decoration: none;
     
         /* NAVY BLUE */
         color: #2E2F42;
-        /* padding: 24px 0; */
+        padding: 24px 0;
 }
 .header-nav:hover{
 color: #404bbf;
