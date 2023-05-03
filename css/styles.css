@@ -135,10 +135,8 @@ color: #404bbf;
 
 /* .hero-position {
     
-        width: 496px;
-        height: 120px;
-        left: 472px;
-        top: 260px;
+        min-width: 1440px;
+        margin-left: 0;
 } */
 
 .section-title {
@@ -492,6 +490,8 @@ margin-bottom: 8px;
 
 .footer-section-one {
     gap: 120px;
+    width: auto;
+    margin: 0 105px 0 0;
 }
 
 .footer-social-media {
