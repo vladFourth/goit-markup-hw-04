@@ -84,6 +84,7 @@ display: flex;
 
 
 .address-item {
+    font-style: normal;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -129,6 +130,7 @@ color: var(--color-ocean);
 .header-nav {
         display: flex;
         gap: 40px;
+        color: var(--color-grey);
         /* padding: 24px 0; */
 }
 
@@ -147,10 +149,7 @@ color: var(--color-ocean);
             background-size: cover;
 }
 
-.hero-position {
-        margin-left: 0 auto;
-    
-}
+
 
 .section-title {
   
@@ -281,6 +280,7 @@ width: calc((100% - 48px) / 3);
 
 .card-title-description {
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .list-item {
@@ -503,9 +503,9 @@ margin-bottom: 8px;
 }
 
 .footer-section-one {
-    gap: 120px;
-    width: auto;
-    margin: 0 105px 0 0;
+    /* gap: 120px;
+    width: auto; */
+    margin: 0 120px 0 0;
 }
 
 .footer-social-media {
